@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://delivery-fv.netlify.app" target="_blank">
+    <a href="https://delivery-service-iota.vercel.app" target="_blank">
       <img src="design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Delivery Service</h3>
@@ -13,17 +13,15 @@
 
 ## <br /> <a name="introduction">✨ Introduction</a>
 
-**[EN]** Landing page design for a delivery service featuring a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript. Enhanced with smooth animations powered by ScrollReveal.js library.
-
-**[FR]** Page d'accueil pour un service de livraison, mettant en avant une esthétique moderne et minimaliste, réalisée avec HTML, CSS et JavaScript. Agrémentée d'animations fluides grâce à la bibliothèque ScrollReveal.js.
+Landing page design for a delivery service featuring a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript. Enhanced with smooth animations powered by ScrollReveal.js library.
 
 ## <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
 - HTML
 - CSS
 - JavaScript
-- Sass [📄](https://sass-lang.com/documentation) 
-- ScrollReveal.js [📄](https://scrollrevealjs.org/guide/hello-world.html) 
+- Sass [📄](https://sass-lang.com/documentation)
+- ScrollReveal.js [📄](https://scrollrevealjs.org/guide/hello-world.html)
 
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
 
